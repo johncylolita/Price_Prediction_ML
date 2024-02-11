@@ -28,3 +28,11 @@ This project encapsulates the end-to-end process of developing a predictive mode
 - **Web Development**: HTML, CSS, JavaScript (jQuery)
 - **Back-end**: Flask
 - **Deployment**: AWS EC2, Nginx
+
+
+## Interface Snapshot
+
+![User Interface](website.png)
+
+The snapshot above showcases the intuitive user interface of the Bangalore Home Price Prediction application. Users can easily input the desired square footage, select the number of bedrooms (BHK), bathrooms, and choose from a list of predefined locations. With a simple click on the "Estimate Price" button, the application provides a real-time prediction of the property's price, displayed in a clear and engaging format. The interface is designed to provide a seamless experience, offering both functionality and aesthetic appeal, to ensure user engagement and accurate estimations.
+
